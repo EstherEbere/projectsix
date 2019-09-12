@@ -27,12 +27,7 @@ header{
     
 } 
 
-@media screen and (min-height:576px){
-    #navigation{
-            width: 50%;
-        
-        }
-    }
+
 
 
 .nav{
@@ -47,14 +42,6 @@ header{
      text-decoration: none;
 } 
 
-@media screen and (min-height:576px){
-    .list{
-        display: inline;
-        font-size:0.8em;
-        
-        }
-    }
-
 
 a:hover, a.on {   
      color: #cc3333;    
@@ -67,14 +54,6 @@ a{
     color:green;
     padding:10px;
 }
-
-@media screen and (min-height:576px){
-    a{
-        padding:1px;
-        
-        }
-    }
-
 
 
 .section{
